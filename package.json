@@ -1,7 +1,7 @@
 {
-  "name": "husky",
+  "name": "husky-v4",
   "version": "4.3.8",
-  "description": "Prevents bad commit or push (git hooks, pre-commit/precommit, pre-push/prepush, post-merge/postmerge and all that stuff...)",
+  "description": "The original Husky, but immutable at v4.3.8",
   "bin": {
     "husky-run": "./bin/run.js",
     "husky-upgrade": "./lib/upgrader/bin.js"
@@ -40,7 +40,7 @@
     "post-merge",
     "postmerge",
     "test",
-    "lint"
+    "lint",
   ],
   "author": "Typicode <typicode@gmail.com>",
   "license": "MIT",

@@ -6,3 +6,4 @@ hook-params
 lib
 node_modules/
 tsconfig.tsbuildinfo
+.idea
